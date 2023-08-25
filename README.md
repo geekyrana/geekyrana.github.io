@@ -1,8 +1,5 @@
-**Portfolio**
+**My Portfolio**
 Live Preview - [Click Here](https://geekyrana.github.io/)
-
-<br/>
-
 <br/>
 
 # 🛠 Installation and Setup Instructions
@@ -39,4 +36,9 @@ Pull Requests are welcome :)
 
 ## Show your support
 
-Give a ⭐ if you like this website!
+Give a ⭐️ if you like this website!
+
+## Credits
+Initially forked from [Gurushesh Pawar](https://github.com/gurupawar/portfolio-react) | [Pedro Muniz](https://github.com/salesp07/salesp07.github.io) | Updated by [Bhanu P. Singh](https://github.com/geekyrana/geekyrana.github.io).
+
+
