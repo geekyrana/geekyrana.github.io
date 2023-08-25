@@ -2,10 +2,7 @@
 Live Preview - [Click Here](https://geekyrana.github.io/)
 
 <br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
-<br/>
+
 <br/>
 
 # 🛠 Installation and Setup Instructions

@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "/Petbudeez.png",
     title: "PetBudeez",
     description:
-      "PetBudeez app is designed to help you and your pet companion meet like-minded people, create communities, establish lasting relationships. Whether your pet is a dog, a cat, a hamster, a rabbit.., PetBudeez is there for you.",
+      "PetBudeez app is designed to help you and your pet companion meet like-minded people, create communities, establish lasting relationships. Whether your pet is a dog, a cat, a hamster, a rabbit..,PetBudeez is there for you.",
     tech_stack: ["Swift", "UIKit", "CoreData", "JSON", "APIs"],
     github_url: "",
     demo_url: "https://apps.apple.com/us/app/petbudeez/id1596638230",
