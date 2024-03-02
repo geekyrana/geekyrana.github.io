@@ -49,6 +49,8 @@ function Hero() {
                     'A Project Manager.',
                     // 'I design and code beautifully simple things, and I love what I do.',
                     1000,
+                    'A DevOps Enthusiast.',
+                    1000,
                     'An IT Graduate.',
                     1000,
                     'An innovative thinker.',

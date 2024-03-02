@@ -50,12 +50,52 @@ export const stackList = [
     name: "Xcode",
   }, 
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
-    name: "Figma",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
+    name: "GitHub",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+    name: "AWS",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg",
+    name: "Terraform",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg",
+    name: "Jenkins",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    name: "Docker",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg",
+    name: "Kubernetes",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg",
+    name: "Ansible",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg",
+    name: "Argo CD",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    name: "Python",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg",
+    name: "Bash Scripting",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg",
+    name: "Wordpress",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
@@ -66,30 +106,21 @@ export const stackList = [
     name: "CSS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
-    name: "JavaScript",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "ReactJS",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
     name: "Firebase",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
-    name: "NodeJS",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg",
+    name: "Trello",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
-    name: "GitHub",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
+    name: "Figma",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg",
     name: "Sketch",
-  },
-  
+  }, 
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",

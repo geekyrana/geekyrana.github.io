@@ -23,22 +23,22 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Bhanu Partap Singh</strong> and I'm from India. Through my 9+ years of expereince in IT, I've traversed a dynamic path through diverse roles in project management & business analysis, sculpting a profound work ethic, mastering the art of communication, and embracing adaptability as a cornerstone of my journey.
+            Hello! My name is <strong>Bhanu Partap Singh</strong> and I'm from India. Through my 9+ years of experience in IT, I've traversed a dynamic path through diverse roles in project management, business analysis and software engineering, sculpting a profound work ethic, mastering the art of communication, and embracing adaptability as a cornerstone of my journey.
             </ScrollAnimation>
 
-            <br /><br />
+            <br />
             
             <ScrollAnimation animateIn="fadeInLeft">
             My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue my Bachelors of Technology in IT field. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
             Throughout my studies at college & internships, I had the opportunity to engage in fascinating projects. 
             </ScrollAnimation>
 
-            <br /><br />
+            <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-            While I am currently amidst a career transition, progressing from an accomplished Project Manager to a dedicated iOS Developer, my journey into the realm of mobile app development commenced in 2015. It all began with an experiment that yielded a wealth of insights into the world of app creation. Subsequently, I embarked on a path of iOS development, starting with Objective-C, followed by Swift, and presently immersing myself in SwiftUI. The prospect of venturing into upcoming ventures brimming with innovation excites me, especially in the domains of iOS development and cross-platform mobile excellence.
+            As I transition towards higher echelons in my career as a seasoned Project Manager, I am actively broadening my expertise by delving into the realms of DevOps and iOS Development. My exploration into mobile app development commenced in 2015, initially as an experiment which has since evolved into a rich learning journey starting with Objective-C, followed by Swift, and presently engaged in mastering SwiftUI. Further, The prospect of embracing new challenges in DevOps, alongside its innovative practices and cutting-edge tools, ignites a profound sense of anticipation and eagerness within me. Just as Agile methodologies have been pivotal in my journey as a Project Manager, I am now fully committed to mastering the array of DevOps tools and techniques that promise to revolutionize project delivery and operational efficiency.
               <div className="tagline2">
-                I have become confident using the following technologies:
+              I am steadily building proficiency in various technologies, including:
               </div>
             </ScrollAnimation>
             
