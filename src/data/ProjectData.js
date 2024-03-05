@@ -2,7 +2,7 @@
 export const ProjectList = [
   {
     img: "/Petbudeez.png",
-    title: "PetBudeez",
+    title: "iOS- PetBudeez",
     description:
       "PetBudeez app is designed to help you and your pet companion meet like-minded people, create communities, establish lasting relationships. Whether your pet is a dog, a cat, a hamster, a rabbit..,PetBudeez is there for you.",
     tech_stack: ["Swift", "UIKit", "CoreData", "JSON", "APIs"],
@@ -11,7 +11,7 @@ export const ProjectList = [
   },
   {
     img: "/BabyKicksSS.png",
-    title: "Baby Kicks",
+    title: "iOS- Baby Kicks",
     description:
       "An iOS app developed using Swift all programmatically from scratch to deployment. This application helps to track baby kicks and keeps history for better monitoring of baby during pregnancy.",
     tech_stack: ["Swift", "CoreData", "UIKit"],
@@ -20,7 +20,7 @@ export const ProjectList = [
   },
   {
     img: "/DockerSS.jpeg",
-    title: "Containerization with Docker",
+    title: "DevOps- Containerization with Docker",
     description:
       "Containerized a Golang app using multi-stage Dockerfile and without using multi-stage Dockerfile approaches. By implementing multi-stage Docker builds, I achieved an impressive reduction of ~800% in image size compared to the traditional method. Another advantages is that it reduces the number of dependencies and packages in the final image, reducing the attack surface and improving security.",
     tech_stack: ["DevOps", "Docker", "Containerization"],
