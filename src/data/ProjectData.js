@@ -18,6 +18,15 @@ export const ProjectList = [
     github_url: "",
     demo_url: "https://apps.apple.com/us/app/babykicks-app/id1555182203/",
   },
+  {
+    img: "/DockerSS.jpeg",
+    title: "Containerization with Docker",
+    description:
+      "Containerized a Golang app using multi-stage Dockerfile and without using multi-stage Dockerfile approaches. By implementing multi-stage Docker builds, I achieved an impressive reduction of ~800% in image size compared to the traditional method. Another advantages is that it reduces the number of dependencies and packages in the final image, reducing the attack surface and improving security.",
+    tech_stack: ["DevOps", "Docker", "Containerization"],
+    github_url: "https://github.com/geekyrana/Docker-Projects",
+    demo_url: "",
+  },
   /* {
     img: "/pokedex-responsive.png",
     title: "Melbourne Premium Taxis",
