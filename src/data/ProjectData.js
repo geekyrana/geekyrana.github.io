@@ -19,6 +19,15 @@ export const ProjectList = [
     demo_url: "https://apps.apple.com/us/app/babykicks-app/id1555182203/",
   },
   {
+    img: "/SSaws.png",
+    title: "DevOps- AWS Cloud Cost Optimization",
+    description:
+      "This project demonstrates an AWS Lambda function designed to optimize storage costs by identifying and deleting stale EBS snapshots. Using which, we can efficiently manage AWS costs and maintain a clean environment as a DevOps engineer. This approach is highly effective in preventing mistakes and significantly reducing AWS resource costs.",
+    tech_stack: ["DevOps", "AWS Cloud", "AWS Lambda", "Cloud Cost Optimization"],
+    github_url: "https://github.com/geekyrana/aws-cost-optimization",
+    demo_url: "",
+  },
+  {
     img: "/DockerSS.jpeg",
     title: "DevOps- Containerization with Docker",
     description:
