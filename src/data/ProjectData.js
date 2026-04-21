@@ -19,6 +19,24 @@ export const ProjectList = [
     demo_url: "https://apps.apple.com/us/app/babykicks-app/id1555182203/",
   },
   {
+    img: "/OrangeSolutions.png",
+    title: "Website- Orange Corporate Solutions",
+    description:
+      "Developed a modern corporate website for Orange - Corporate Solutions, a firm offering comprehensive HR consultancy services focused on organizational growth and employee engagement. The platform showcases their services and expertise through a clean, professional interface. Built using Next.js, React, and JavaScript, with emphasis on performance, scalability, and responsive design.",
+    tech_stack: ["Next.js", "React", "JavaScript"],
+    github_url: "",
+    demo_url: "https://www.orangecorporatesolutions.com",
+  },
+  {
+    img: "/UshankTech.png",
+    title: "Website- Ushank Tech",
+    description:
+      "Developed a responsive corporate website for Ushank Tech, a company specializing in ServiceNow staffing and solutions. The website highlights their services, expertise, and client-focused approach. Built using HTML, CSS, and jQuery with a focus on clean UI, performance, and cross-device compatibility.",
+    tech_stack: ["HTML", "CSS", "JQuery"],
+    github_url: "",
+    demo_url: "https://ushanktech.com",
+  },
+  {
     img: "/SSaws.png",
     title: "DevOps- AWS Cloud Cost Optimization",
     description:
